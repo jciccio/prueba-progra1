@@ -6,5 +6,7 @@ public class HolaMundo{
 		System.out.println( " " + x * y);
 		int hola = 12;
 		String holaMundo = "Hola Mundo " + hola;
+		int z = y * y;
+
 	}
 }
