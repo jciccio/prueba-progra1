@@ -4,5 +4,7 @@ public class HolaMundo{
 		int x = 10;
 		int y = 5;
 		System.out.println( " " + x * y);
+		int hola = 12;
+		String holaMundo = "Hola Mundo " + hola;
 	}
 }
